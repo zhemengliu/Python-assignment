@@ -1,0 +1,15 @@
+#Practice2.4_EquilateralTriangle
+import turtle
+turtle.setup(600,600,500,200)
+turtle.penup()
+turtle.seth(90)
+turtle.fd(200)
+turtle.pendown()
+turtle.pensize(5)
+turtle.pencolor("black")
+turtle.seth(-60)
+turtle.fd(300)
+turtle.seth(180)
+turtle.fd(300)
+turtle.seth(60)
+turtle.fd(300)
